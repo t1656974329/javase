@@ -1,2 +1,2 @@
 # javase
-java基础资料
+java基础
